@@ -7,7 +7,7 @@ I'm the creator of [Frostspark](https://github.com/Frostspark), a new server eng
 
 I've also created [Phantasm](https://github.com/bartico6/Phantasm), which is an anti-cheat plugin for Terraria, allowing to actively combat cheating in the game, by introducing rubberbanding for improbable player behaviours.
 
-All of these projects are being developed primaryl for use at [terraria.gg](https://terraria.gg) which is a Terraria server I'm planning on launching at some point in the future. There is no ETA because while I'd like to ship it ASAP, I don't want to compromise on quality. The server scene is very small and competitive in its nature, and you realistically only have one shot at making a good first impression.
+All of these projects are being developed primarily for use at [terraria.gg](https://terraria.gg) which is a Terraria server I'm planning on launching at some point in the future. There is no ETA because while I'd like to ship it ASAP, I don't want to compromise on quality. The server scene is very small and competitive in its nature, and you realistically only have one shot at making a good first impression.
 
 #### About myself
 
