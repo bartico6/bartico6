@@ -9,6 +9,8 @@ I've also created [Phantasm](https://github.com/bartico6/Phantasm), which is an 
 
 All of these projects are being developed primarily for use at [terraria.gg](https://terraria.gg) which is a Terraria server I'm planning on launching at some point in the future. There is no ETA because while I'd like to ship it ASAP, I don't want to compromise on quality. The server scene is very small and competitive in its nature, and you realistically only have one shot at making a good first impression.
 
+I also semi-frequently contribute knowledge/consulting/expertise to [tShock](https://github.com/Pryaxis/tShock). 
+
 #### About myself
 
 I'm a programmer in his twenties with university education. Not much else to say on the matter.
