@@ -17,7 +17,7 @@ I'm a programmer in his twenties with university education. Not much else to say
 
 #### Skills
 
-I mainly work with C#, but know a bunch of other languages (both programming and markup) on at least a workable (usually higher than that) level, some of them including Java, JS, CSS, HTML, Lua and C++.
+I mainly work with C#, but know a bunch of other languages (both programming and markup) on at least a decent level, some of them including Java, JS, CSS, HTML, Lua and C++.
 
 #### Commissions
 
