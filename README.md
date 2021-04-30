@@ -23,8 +23,8 @@ I can (and do) both backend and fullstack development, however I'm still lacking
 
 #### Commissions
 
-I accept commissions for all kinds of projects as long as the pay is worth my time. 
-**I don't work for free**. 
+I accept commissions for all kinds of projects as long as the pay is worth my time.  
+**I don't work for free**.  
 **I only accept payment in profit shares if you are already making profit, or can prove to me that your project will work.**
 
 #### Education
