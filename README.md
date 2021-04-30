@@ -29,7 +29,7 @@ I accept commissions for all kinds of projects as long as the pay is worth my ti
 
 #### Education
 
-I currently have the title of Bachelor of Computer Science from Lublin's University of Technology, with the highest grade possible on the diploma (**5.0**)
+I currently have the title of Bachelor of Computer Science from Lublin's University of Technology, with the highest grade possible on the diploma (**5.0**)  
 I'm also currently pursuing a Master's degree, also in Computer Science - more specifically, Software Engineering.
 
 #### Contact
